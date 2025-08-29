@@ -81,3 +81,4 @@ MIT
 ---
 
 *Généré avec [FastStartProject](https://github.com/yourusername/faststartproject) - Lightning fast AI-optimized project generator*
+# poubelle
